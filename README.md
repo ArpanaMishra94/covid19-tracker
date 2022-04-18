@@ -1,4 +1,4 @@
-Project published on firebase-  https://covid-tracker-bcddf.web.app/appContent
+Project published on firebase-  https://covid-tracker-bcddf.web.app/
 
 
 
