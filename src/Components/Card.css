@@ -1,0 +1,33 @@
+.card {
+    background-color: white;
+    box-shadow:0px 3px 8px 2px rgb(170 167 167);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 5px;
+    border-top: 10px solid white;
+}
+
+.card-green {
+    border-top: 10px solid greenyellow;
+}
+
+.card-red {
+    border-top: 10px solid red;
+}
+
+.card-content > p{
+    color: rgb(170, 167, 167);
+}
+
+.card-content > h2 {
+    color: #cc1034;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+} 
+
+.cases-green {
+    color: lightgreen !important;
+}

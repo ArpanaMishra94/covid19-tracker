@@ -1,0 +1,70 @@
+.appContent {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+  
+.app__dropdown {
+    background-color: white;
+}
+  
+.appContent-left-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+  
+.header > h1 {
+    color: #fc3c3c;
+    font-size: 2rem;
+}
+  
+.stats {
+    display: flex;
+    justify-content: space-between;
+}
+  
+.appContent-left {
+    flex: 0.9;
+}
+
+.appContent-right {
+    background-color: #fff;
+    border-radius: 12px;
+}   
+  
+.appContent-right > h3 {
+    color: #726464;
+    font-weight: 600;
+    font-size: 1.8rem;
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+  
+.app-graph > h1{
+    margin: 20px;
+}
+
+.app-graph {
+    background-color: white;
+    border-radius: 10px;
+}
+  
+.dropdown {
+    background: none;
+    background-color: white;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+    font-family: inherit;
+    font-size: inherit  ;
+    box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+    height: 5vh;
+    width: 25vw;
+    border-radius: 9px;
+    outline: none;
+    border: 0.5px solid gray;
+}
+
